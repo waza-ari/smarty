@@ -1,5 +1,5 @@
 {
-    "name": "wazaari/smarty",
+    "name": "smarty/smarty",
     "type": "library",
     "description": "Smarty - the compiling PHP template engine - Fork by Daniel Herrmann including old formtools",
     "keywords": ["templating"],
